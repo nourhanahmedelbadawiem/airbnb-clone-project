@@ -24,7 +24,7 @@ Faster Iteration	Clearly defined properties make it easier to apply global chang
 Accessibility	Ensures contrast and readability meet accessibility guidelines.
 
 
-Role	Responsibilities	Contribution to Project Success
+Project Roles and Responsibilities
 Project Manager	- Plan, track, and manage project timelines and deliverables.
 - Coordinate between teams.
 - Ensure project scope and budget are maintained.	Keeps the team aligned, ensures deadlines are met, and communicates progress to stakeholders.
