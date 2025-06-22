@@ -23,3 +23,31 @@ Design System Creation	Lays the foundation for scalable design systems and compo
 Faster Iteration	Clearly defined properties make it easier to apply global changes without manual editing.
 Accessibility	Ensures contrast and readability meet accessibility guidelines.
 
+
+Role	Responsibilities	Contribution to Project Success
+Project Manager	- Plan, track, and manage project timelines and deliverables.
+- Coordinate between teams.
+- Ensure project scope and budget are maintained.	Keeps the team aligned, ensures deadlines are met, and communicates progress to stakeholders.
+Frontend Developers	- Develop responsive user interfaces using React, HTML, CSS, etc.
+- Integrate frontend with backend APIs.
+- Optimize performance and user experience.	Delivers the visual and interactive aspects of the application users engage with.
+Backend Developers	- Design and implement APIs and database schemas.
+- Handle authentication, business logic, and data processing.
+- Ensure server security and scalability.	Provides the core logic and infrastructure that powers the application.
+Designers	- Create UI/UX mockups and prototypes in tools like Figma.
+- Define visual styles, color schemes, and typography.
+- Conduct user research and usability testing.	Ensures the application is intuitive, aesthetically pleasing, and user-centric.
+QA/Testers	- Develop test plans and write test cases.
+- Perform manual and automated testing.
+- Report bugs and ensure fixes are verified.	Ensures product quality, stability, and a smooth user experience through rigorous testing.
+DevOps Engineers	- Set up CI/CD pipelines.
+- Manage cloud infrastructure, environments, and deployment.
+- Monitor performance and logs.	Ensures reliable and scalable deployment, reducing downtime and enabling fast updates.
+Product Owner	- Define product vision, roadmap, and priorities.
+- Manage the product backlog.
+- Liaise with stakeholders to gather feedback.	Aligns the product with user needs and business goals, ensuring valuable features are prioritized.
+Scrum Master	- Facilitate agile ceremonies (standups, sprint planning, retrospectives).
+- Remove blockers for the team.
+- Promote Agile principles.	Supports team productivity, fosters continuous improvement, and ensures smooth Agile processes.
+
+
