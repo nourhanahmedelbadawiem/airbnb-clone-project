@@ -51,3 +51,19 @@ Scrum Master	- Facilitate agile ceremonies (standups, sprint planning, retrospec
 - Promote Agile principles.	Supports team productivity, fosters continuous improvement, and ensures smooth Agile processes.
 
 
+ UI Component Patterns
+This section outlines the reusable UI components that will be created to ensure consistency, maintainability, and a smooth user experience across the application.
+
+Component	Description
+Navbar	A responsive top navigation bar that includes branding/logo, navigation links (e.g., Home, Listings, Contact), and user authentication controls (e.g., Login/Logout, Profile dropdown). It will adapt for both desktop and mobile views.
+Property Card	A visual card component used in the property listing view. Each card displays a thumbnail image, property title, price per night, rating, and a short description. Clicking it will navigate to the detailed property view.
+Footer	A fixed or sticky bottom section of the page that includes site links (e.g., Terms, Privacy, About), social media icons, and copyright information.
+Button	Reusable button components with variants such as primary, secondary, disabled, and loading states.
+Search Bar	An input field with optional filters (location, date, guest count) for searching properties. May include autocomplete or suggestion features.
+Booking Form	A form that includes date pickers, guest selectors, and a submit button. Used in the listing detail and checkout pages to initiate the booking process.
+Modal	A reusable pop-up component for actions like login/signup, booking confirmation, or displaying alerts. Includes optional overlay and close controls.
+Rating Display	A visual component to display property ratings using stars or numeric scores, typically included in cards or detail views.
+Image Carousel	An interactive image slider for property photos. Includes navigation arrows, indicators, and support for mobile gestures.
+Toast/Alert	A notification component for displaying success, error, or info messages across the application in a non-intrusive way.
+
+
